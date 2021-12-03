@@ -101,4 +101,6 @@ Execute the program
 </html>
 
 ~~~
-# OUPUT
+## Output
+![output](https://github.com/VINUTHNA-2004/timetable/blob/main/logo.png?raw=true)
+![output]()
