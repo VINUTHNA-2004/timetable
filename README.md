@@ -104,3 +104,5 @@ Execute the program
 ## Output
 ![output](https://github.com/VINUTHNA-2004/timetable/blob/main/logo.png?raw=true)
 ![output](https://github.com/VINUTHNA-2004/timetable/blob/main/WhatsApp%20Image%202021-12-03%20at%204.33.15%20PM%20(1).jpeg?raw=true)
+## Result
+The program is  executed
